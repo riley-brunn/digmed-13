@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @digmed-13
+- 👋 Hi, I’m riley
 - 👀 I’m interested in websites, mobile apps, UI/UX design, and more
 - 🌱 I’m currently learning front-end and back-end web development at UCF
 - 💕 Fun fact: I'm a big fan of hard rock and horror movies
